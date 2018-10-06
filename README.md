@@ -99,7 +99,7 @@ $ videotools -device <Your video path> -folder <Your picture folder path>
 ``` sh
 $ videotools -device <Your camera device number> -folder <Your picture folder path>
 ```
-0表示系统默认摄像头的设备号
+0表示系统默认摄像头的设备号<br>
 3. 图片合成视频
 ``` sh
 $ videotools -image <Your image folder path> -video <Video name>

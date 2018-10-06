@@ -38,7 +38,7 @@ $ videotools -device <Your video path> -folder <Your picture folder path>
 ``` sh
 $ videotools -device <Your camera device number> -folder <Your picture folder path>
 ```
-0 indicates the device number of the system default camera
+0 indicates the device number of the system default camera.<br>
 3. Use image compose video
 ``` sh
 $ videotools -image <Your image folder path> -video <Video name>
